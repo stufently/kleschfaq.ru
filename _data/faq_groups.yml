@@ -1,16 +1,22 @@
 ---
 - title: Классификация
   hashtag: classification
-  path: классификация
+  path: classification
 - title: Клещивые болезни и инфенкции
   hashtag: Tickbornediseasesandinfenki
-  path: Клещиевые болезни и инфенкии
+  path: Tickbornediseasesandinfenki 
 - title: Лечение
   hashtag: Treatment
-  path: Лечение
+  path: Treatment
 - title: О видах Клещей
   hashtag: AboutthetypesofTicks
-  path: О видах Клещей
+  path: AboutthetypesofTicks
 - title: Клещи у питомца
   hashtag: Ticksinthepet
-  path: Клещи у питомца
+  path: Ticksinthepet 
+- title: Клещи у питомца
+  hashtag: Ticksinthepet
+  path: Ticksinthepet
+- title: Средства от клещей
+  hashtag: Remediesforticks
+  path: Remediesforticks
