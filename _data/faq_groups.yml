@@ -1,4 +1,16 @@
 ---
-- title: faq
-  hashtag: faq
-  path: faq
+- title: Классификация
+  hashtag: classification
+  path: классификация
+- title: Клещиевые болезни и инфенкции
+  hashtag: Tickbornediseasesandinfenki
+  path: Клещиевые болезни и инфенкии
+- title: Лечение
+  hashtag: Treatment
+  path: Лечение
+- title: О видах Клещей
+  hashtag: AboutthetypesofTicks
+  path: О видах Клещей
+- title: Клещи у питомца
+  hashtag: Ticksinthepet
+  path: Клещи у питомца
