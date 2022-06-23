@@ -23,10 +23,10 @@ author: PumainThailand
 # path: assets\img\clients\creative-market.jpg
 # height: 60 #height in px, defaults to 52px
 
-title: Faq
+title: Всё о Клещах | Инфекции,Лечение, Клещи у Питомцев
 email: pumainthailand.com@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Описание
+  Лечение и профилактика клещей, всё о клещах.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://kleschfaq.ru/" # the base hostname & protocol for your site, e.g. http://example.com
 
